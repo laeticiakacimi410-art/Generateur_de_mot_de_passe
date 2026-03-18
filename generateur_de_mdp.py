@@ -1,3 +1,8 @@
+# Générateur de mot de passe sécurisé
+# - Au moins une majuscule, une minuscule, un chiffre et un symbole
+# - Longueur minimale : 8 caractères
+# Auteur : Laeticia Kacimi
+
 import random
 import string
 
