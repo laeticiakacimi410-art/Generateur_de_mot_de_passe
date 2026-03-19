@@ -33,8 +33,7 @@ Ce projet est conçu pour apprendre à manipuler **Python**, les **listes**, les
 ## Instructions pour exécuter le projet
 
 1. Assurez-vous d’avoir **Python 3.x** installé sur votre machine.  
-2. Téléchargez le fichier `password_generator.py` (ou nom du fichier que vous avez utilisé).  
+2. Téléchargez le fichier `password_generator.py`   
 3. Dans le terminal, exécutez :
-
-```bash
+linux :
 python3 password_generator.py
